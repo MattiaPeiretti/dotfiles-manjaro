@@ -1,0 +1,8 @@
+2021/04/04-16:43:53.646 75d8 Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/04-16:43:53.646 75d8 Recovering log #25
+2021/04/04-16:43:53.646 75d8 Reusing old log /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000025.log 
+2021/04/04-16:57:16.715 796a Level-0 table #30: started
+2021/04/04-16:57:16.716 796a Level-0 table #30: 0 bytes OK
+2021/04/04-16:57:17.253 796a Delete type=0 #25
+2021/04/04-16:57:17.254 79dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/04-16:57:17.254 79dc Manual compaction at level-1 from (begin) .. (end); will stop at (end)

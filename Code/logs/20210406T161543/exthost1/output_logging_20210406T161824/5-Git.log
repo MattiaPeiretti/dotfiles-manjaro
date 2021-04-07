@@ -1,0 +1,27 @@
+Looking for git in: git
+Using git 2.31.0 from git
+> git rev-parse --git-dir
+Open repository: /home/mattia/development/TVG/TVG
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :project/GUI/routes.py
+> git ls-files --stage -- /home/mattia/development/TVG/TVG/project/GUI/routes.py
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git cat-file -s dd00116d48d7f8a71894466b4ce8346e66cc1141
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project/GUI/routes.py
+> git ls-files --stage -- /home/mattia/development/TVG/TVG/project/GUI/routes.py
+> git cat-file -s dd00116d48d7f8a71894466b4ce8346e66cc1141
+> git show --textconv :project/GUI/routes.py
+> git ls-files --stage -- /home/mattia/development/TVG/TVG/project/GUI/routes.py
+> git cat-file -s dd00116d48d7f8a71894466b4ce8346e66cc1141

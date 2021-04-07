@@ -1,0 +1,15 @@
+2020/12/31-13:55:15.155 32c1 Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/31-13:55:15.155 32c1 Recovering log #4
+2020/12/31-13:55:15.280 32c1 Reusing old log /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000004.log 
+2020/12/31-14:42:41.213 780c Level-0 table #8: started
+2020/12/31-14:42:41.346 780c Level-0 table #8: 520512 bytes OK
+2020/12/31-14:42:41.400 780c Delete type=0 #4
+2020/12/31-14:42:41.409 780c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/31-14:42:41.409 780c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x1f\x03\x00\xc0B\x01\x8ekwB\x00\x01,\x00k\x00F\x00z\x000\x00V\x00W\x00Q\x00e\x00p\x00/\x003\x00K\x008\x002\x00R\x00D\x00e\x00t\x00g\x00B\x00D\x00w\x002\x00X\x000\x006\x00t\x007\x00m\x00I\x001\x00X\x00g\x005\x005\x00g\x00T\x005\x00Z\x00m\x00V\x00l\x00Q\x00=' @ 22208 : 1
+2020/12/31-14:42:41.409 780c Compacting 1@1 + 1@2 files
+2020/12/31-14:42:41.503 780c Generated table #9@1: 5912 keys, 271001 bytes
+2020/12/31-14:42:41.503 780c Compacted 1@1 + 1@2 files => 271001 bytes
+2020/12/31-14:42:41.553 780c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/31-14:42:41.554 780c Delete type=2 #5
+2020/12/31-14:42:41.554 780c Delete type=2 #8
+2020/12/31-14:42:41.556 780c Manual compaction at level-1 from '\x00\x05\x02\x1f\x03\x00\xc0B\x01\x8ekwB\x00\x01,\x00k\x00F\x00z\x000\x00V\x00W\x00Q\x00e\x00p\x00/\x003\x00K\x008\x002\x00R\x00D\x00e\x00t\x00g\x00B\x00D\x00w\x002\x00X\x000\x006\x00t\x007\x00m\x00I\x001\x00X\x00g\x005\x005\x00g\x00T\x005\x00Z\x00m\x00V\x00l\x00Q\x00=' @ 22208 : 1 .. (end); will stop at (end)

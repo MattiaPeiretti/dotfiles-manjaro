@@ -1,0 +1,6 @@
+2021/01/08-22:47:46.679 4a08a Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/08-22:47:46.679 4a08a Recovering log #3
+2021/01/08-22:47:46.698 4a08a Reusing old log /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000003.log 
+2021/01/08-23:09:44.008 4a0c8 Level-0 table #5: started
+2021/01/08-23:09:44.238 4a0c8 Level-0 table #5: 2358362 bytes OK
+2021/01/08-23:09:44.282 4a0c8 Delete type=0 #3

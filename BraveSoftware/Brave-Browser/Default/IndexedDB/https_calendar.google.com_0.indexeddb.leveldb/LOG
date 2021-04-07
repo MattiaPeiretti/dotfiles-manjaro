@@ -1,0 +1,5 @@
+2021/01/29-19:57:56.411 38eb Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/29-19:58:02.236 331b Level-0 table #5: started
+2021/01/29-19:58:02.403 331b Level-0 table #5: 1295 bytes OK
+2021/01/29-19:58:02.812 331b Delete type=0 #3
+2021/01/29-19:58:02.812 331b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

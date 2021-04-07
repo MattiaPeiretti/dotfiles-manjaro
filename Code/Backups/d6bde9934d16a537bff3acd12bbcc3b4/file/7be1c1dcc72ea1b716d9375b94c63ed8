@@ -1,0 +1,517 @@
+file:///home/mattia/development/clients/nativeOost/nativeOost/index.html {"mtime":1616586707463,"ctime":1616581069807,"size":20724,"etag":"36km0kdaplhg","orphaned":false}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+
+    <title>Native Oost</title>
+
+
+    <link rel="shortcut icon" type="image/png" href="img/favicontr.png" />
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" media="all" href="css/magnific-popup.css">
+
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery-easing.js"></script>
+    <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.css">
+    <!--NOT USED <link rel="stylesheet" href="vendor/device-mockups/device-mockups.min.css">-->
+
+    <!-- ONE STYLESHEET TO RULE THEM ALL AND IN THE DARKNESS BIND THEM -->
+    <link rel="stylesheet" href="css/global-stylesheet.css">
+
+
+    <!-- Theme CSS -->
+    <!--IN GLOBAL <link href="css/new-age.css" rel="stylesheet">-->
+    <!--IN GLOBAL <link href="css/custom.css" rel="stylesheet" /> -->
+    <!-- EXTRA CSS -->
+    <!--IN GLOBAL <link href="css/social-design-section.css" rel="stylesheet" /> -->
+    <!--IN GLOBAL  <link href="css/team-section.css" rel="stylesheet" />-->
+    <!-- CITY BEACON SECTION NOT USED ANYMORE <link href="css/city-beacon.css" rel="stylesheet" />-->
+    <!--IN GLOBAL <link href="css/storyline.css" rel="stylesheet" />-->
+    <!--NOT USED <link href="css/bgslide.css" rel="stylesheet" />-->
+    <!-- can later be merged with other CSS files -->
+
+</head>
+
+<body id="page-top" onresize="bodyResize()" onload="bodyOnload()">
+    <nav id="mainNav" class="navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <!--<a class="navbar-brand page-scroll" href="#page-top"> not necessary -->
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <!--Drop the 'px' part. Use only non-negative integers.-->
+                    <img class="img-responsive" width="100" height="100" alt="logo" src="img/logos/logo_wide.png" />
+                </a>
+
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                <div class="menu-block">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a class="page-scroll" href="#MISSIE">MISSIE</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#BOEK">ACTIVITEITEN</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#CONTACT">CONTACT</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="navbar-brand menu-block">
+                    <ul class="list-inline list-social">
+                        <li class="social-youtube">
+                            <a target="_blank" href="https://www.facebook.com/Native_Oost-547230755976448"><i
+                                    class="fa fa-facebook"></i></a>
+                        </li>
+                        <li class="social-instagram">
+                            <a target="_blank" href="https://www.instagram.com/native_oost/"><i
+                                    class="fa fa-instagram"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+    <section id="HEADER" class="header-section">
+        <div class="header-inner">
+            <div class="header-full-height">
+
+            </div>
+        </div>
+    </section>
+
+    <section id="MISSIE" class="features">
+        <h1 style="color: #000 !important"><strong>NATIVE OOST</strong>
+            <BR>ONZE MISSIE
+        </h1>
+        <p style="font-size: medium; text-align: center;padding: 0px 20%; margin-bottom: 10px; color: #000 !important;">
+            De missie van Native Oost is om onze jongeren te laten participeren in de maatschappij, hen te stimuleren in
+            hun eigen kracht en zo te behoeden voor allerlei valkuilen in het leven zoals schoolverlating, waardoor op
+            latere leeftijd problemen kunnen ontstaan.
+
+            Om de jongeren klaar te laten stomen voor de toekomst biedt Native Oost perspectief door hulp bij het zoeken
+            naar talent, hulp bij het opbouwen van een netwerk, het organiseren van toegankelijke en praktische
+            cursussen en workshops. Alles is laagdrempeligheid en praktisch.
+
+            Wij luisteren naar de behoeftes van de jongeren. Wij willen dat ze weer vooruit kunnen kijken, hun dromen
+            kunnen realiseren en mee kunnen draaien in de samenleving, net zoals ieder ander. Hier worden we enthousiast
+            van en staan we iedere dag met veel energie voor op!
+        </p>
+    </section>
+
+    <section id="METHODE" class="features">
+        <div class="slideControls">
+            <div>
+
+                <div id="LeftArrow2" class="leftBtn">
+                    <div class="arrow"><span class="arrowLeft" onclick="moveSlide(-1)">&#10094;</span></div>
+                </div>
+
+                <div id="RightArrow2" class="leftBtn" style>
+                    <div class="arrow"><span class="arrowRight" onclick="moveSlide(1)">&#10095;</span></div>
+                </div>
+
+            </div>
+        </div>
+        <div style="clear: both;"></div>
+    </section>
+
+
+    <section id="BOEK" class="features">
+        <div class="container section-heading text-center">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="col-lg-12 ">
+                        <div class="">
+                            <h2>ONZE ACTIVITEITEN</h2><BR>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="wrapper" class="row" style="margin-top:-120px">
+            <div id="portfolio" style="font-weight: normal!important">
+
+                <div class="col-md-4 product-item">
+                    <h3 class="text-center"><b>TEAMWORK</b></h3>
+
+                    <img src="img/pictures/activiteiten/teamwork.webp" class="img-responsive" alt="URBAN WORKOUTS">
+
+                    <br /> We leren door naar elkaar te luisteren, elkaar te coachen en te helpen. Een wijzende vinger
+                    gaat niet helpen, fouten maken mag. Wij respecteren elkaar.
+                </div>
+
+                <div class="col-md-4 product-item">
+                    <h3 class="text-center"><b>ACTIVEREN</b></h3>
+                    <!-- THIS PERFORMS POORLY AND I CAN"T FIND THE WAY TO GET BACK FROM THE ZOOMED IMAGE -->
+
+                    <img src="img/pictures/activiteiten/activeren.webp" class="img-responsive"
+                        alt="PUBLIC ESCAPE ROOMS">
+
+                    <br />Wij gaan uit van eigen kracht, maar soms is een klein beetje hulp wel nodig. Wij helpen
+                    jongeren om op te starten, maar motiveren hem ook om zelf actie te ondernemen.
+                </div>
+
+                <div class="col-md-4 product-item">
+                    <h3 class="text-center"><b>INSPIREREN</b></h3>
+                    <img src="img/pictures/activiteiten/inspireren.webp" class="img-responsive" alt="PHILOSOPHY ROUTES">
+
+                    <br /> Jij kunt alles als je gelooft in je eigen kunnen. We organiseren workshops en praatsessies
+                    met rolmodellen in kleine vertrouwde setting, die een inspiratie voor jongeren kunnen zijn.
+                </div>
+
+            </div>
+        </div>
+
+        <div id="wrapper" class="row">
+            <div id="portfolio" style="font-weight: normal!important">
+
+
+
+                <div class="col-md-4 product-item">
+                    <h3 class="text-center"><b>ROLMODELLEN</b></h3>
+                    <!-- THIS PERFORMS POORLY AND I CAN"T FIND THE WAY TO GET BACK FROM THE ZOOMED IMAGE -->
+
+                    <img src="img/pictures/activiteiten/rolmodellen.webp" class="img-responsive"
+                        alt="PUBLIC ESCAPE ROOMS">
+
+                    <br /> Iedere jongere die zich aansluit bij Native Oost is voor ons een rolmodel. Niets is zo
+                    inspirerend als een positieve impact maken op het leven van een leeftijdsgenoot. Maar ook
+                    influencers, sporters, ondernemers krijgen een vaste plek in het programma. 
+                </div>
+
+                <div class="col-md-4 product-item">
+                    <h3 class="text-center"><b>FUN</b></h3>
+                    <a href="Docu/index.html">
+                        <img src="img/pictures/activiteiten/fun.webp" class="img-responsive" alt="PHILOSOPHY ROUTES">
+                    </a>
+
+                    <br /> Leuke dingen doen is niet ons doel, maar zetten wij wel in als middel. Sport en spel en samen
+                    koken zien wij als een onmisbare factor om jongeren te activeren en ze te laten ervaren hoe het is
+                    om verbonden te zijn met anderen. Door middel van sport, spel en activiteiten komen we tot de
+                    serieuze thema’s.
+                </div>
+
+                <div class="col-md-4 product-item">
+                    <h3 class="text-center"><b>VERBINDEN</b></h3>
+
+                    <img src="img/pictures/activiteiten/verbinden.webp" class="img-responsive" alt="URBAN WORKOUTS">
+
+                    <br /> Vanuit deze gezellige tijdelijke frisse buurtbar in een blauwe zeecontainer op een slimme
+                    plek in de buurt faciliteert Hoodlab het gesprek tussen de bewoners en professionals. Samen werken
+                    we aan de sociaal maatschappelijke en ruimtelijke uitdagingen van de buurt, op een laagdrempelige
+                    vernieuwende manier.
+                </div>
+
+
+            </div>
+        </div>
+
+        <div>
+            <br><br><br>
+            <h4 class="text-center">
+                <!--  Encode spaces as %20. Note that specifying a subject may result in lost mail. -->
+
+                Suggestie? Laat ons weten!<br> <a style="color: black"
+                    href="mailto:hallo@nativeoost.nl?subject=suggestie:"><u><b>Email ons jullie idee, wens of
+                            uitdaging.</u></b>
+                </a>
+            </h4>
+        </div>
+
+        </div>
+    </section>
+
+    <section id="FOUNDERWORDS" class="founderwords">
+        <div class="container">
+            <div class="row founderwords-row">
+                <div class="col-md-4 founder-picture">
+                    <div class="founder-picture-inner">
+                        <img alt="founder" style="padding: 10px;" src="img/pictures/founder.webp">
+                    </div>
+                </div>
+                <div class="col-md-8 founder-words align-self-center">
+                    <h3>EEN PAAR WOORDEN VAN DE FOUNDER</h3>
+                    <span class="founder-words-text">
+                        Native Oost is er voor jongeren, door jongeren. Wij zien iedere jongere als onderdeel van het
+                        team.
+                        Zij
+                        kunnen een
+                        positieve impact maken op het leven van een ander, zijn Native Oost. Om hen te ondersteunen
+                        staat
+                        achter
+                        hen een
+                        bevlogen bestuur, met ook allen met een persoonlijke drive om zich in te zetten voor de
+                        samenleving.
+                        <br />
+                        <br />
+                    </span>
+                    <span class="founder-name" style="padding-bottom: 20px;">Founder Azzedine
+                        Wajgali</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="CONTACT" style="background-color: #000; color: #fff;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <h3>Stichting Native Oost</h3>
+                    <span>Amsterdam Oost<br />
+                        Dapperbuurt</span> <br /> <br />
+                    <a href="mailto:hallo@nativeoost.nl?subject=contact:">hallo@nativeoost.nl</a><br />
+                    <a href="tel:0639211808">tel: 0639211808</a>
+                </div>
+                <div class="col-md-6"></div>
+                <div class="col-md-3" style="text-align: right;">
+                    <h3>ONLINE CONNECTEREN</h3>
+                    <ul class="list-inline list-social" style="font-size: 20px;">
+                        <li class="social-youtube">
+                            <a target="_blank" href="https://www.facebook.com/Native_Oost-547230755976448"><i
+                                    class="fa fa-facebook"></i></a>
+                        </li>
+                        <li class="social-instagram">
+                            <a target="_blank" href="https://www.instagram.com/native_oost/"><i
+                                    class="fa fa-instagram"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+        </div>
+    </section>
+    <section id="LEGAL" style="padding: 0; margin: 0; background-color: #000; color: #fff;">
+        <div class="container">
+            <div class="row" style="padding: 10px 10px; padding-bottom: 60zpx;">
+                <div class="col-md-4"><span>KVK: 82003025</span></div>
+                <div class="col-md-2"></div>
+                <div class="col-md-6" style="text-align: right;">
+                    <div>
+                        Supported by: <a href="https://plygrnd.city/" target="_blank">PLYGRND.city</a> & <a
+                            href="https://mattiapeiretti.com/" target="_blank">Mattia Peiretti</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="preload-images"></div>
+
+    <div id="myModal" class="modal">
+
+        <!-- The Close Button -->
+
+        <div>
+
+            <div id="LeftArrow" class="leftBtn">
+                <div class="arrow"><span class="arrowLeft" onclick="moveSlide2(-1)">&#10094;</span></div>
+            </div>
+
+            <div id="RightArrow" class="leftBtn" style>
+                <div class="arrow"><span class="arrowRight" onclick="moveSlide2(1)">&#10095;</span></div>
+            </div>
+
+        </div>
+
+        <span class="close" style="z-index: 999;">&times;</span>
+
+        <!-- Modal Content (The Image) -->
+
+        <!-- Modal Caption (Image Text) -->
+
+    </div>
+
+
+
+
+
+
+
+    <!-- jQuery -->
+    <!--<script src="vendor/jquery/jquery.min.js"></script>-->
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+
+    <script src="js/new-age.min.js"></script>
+
+    <!-- Custom JavaScript -->
+    <script src="js/custom-interaction-min.js"></script>
+    <script src="js/slider2.js"></script>
+    <script src="js/slider1.js"></script>
+
+    <!-- Javascript animation -->
+
+
+    <script>
+        //---- CODE WRITTEN BY MATTIA PEIRETTI ----
+
+
+        var $win = $(window),
+            $video = $('#full-video'),
+            $videoWrapper = $video.parent();
+
+
+
+        function scaleVideo() {
+            var isWider = ($video.width() > $videoWrapper.width()) ? true : false,
+                isTaller = ($video.height() > $win.height()) ? true : false,
+                widthDifference = $video.width() - $videoWrapper.width(),
+                heightDifference = $video.height() - $videoWrapper.height();
+
+            (isWider) ? $video.css('left', -parseInt(widthDifference / 2)) : $video.css('left', '0');
+            (isTaller) ? $video.css('top', -parseInt(heightDifference / 2)) : $video.css('top', '0');
+        }
+
+        scaleVideo();
+        $win.resize(function () {
+            scaleVideo();
+        });
+
+
+
+
+        scaleVideo();
+        cardResizer();
+        imageTResizer();
+        imagePResizer();
+        moveSlide(0);
+
+        function bodyOnload() {
+            imageTResizer();
+            scaleVideo();
+            imagePResizer();
+            GmapResizer();
+        }
+
+
+        window.addEventListener("resize", bodyResize);
+
+        function bodyResize() {
+            cardResizer();
+            imageTResizer();
+            imagePResizer();
+            GmapResizer();
+
+        }
+
+        function DetectMobile() {
+            var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+            var element = document.getElementById('text');
+            if (isMobile) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+
+
+        var bodyWidth = document.body.clientWidth;
+
+        var bodyHeight = document.body.clientHeight;
+
+        //---- Cards HET TEAM ----
+
+
+        function cardResizer() {
+            cards = document.getElementsByClassName('containerR');
+
+            containerWidth = document.getElementById('c0').clientWidth;
+            for (var i = 0; i < cards.length; i++) {
+                cards[i].style.height = (containerWidth - 30) + "px";
+            }
+        }
+
+        function imagePResizer() {
+            cards = document.getElementsByClassName('containerP');
+
+            containerWidth = document.getElementById('b0').clientWidth;
+            for (var i = 0; i < cards.length; i++) {
+                cards[i].style.height = (containerWidth - (containerWidth / 3)) + "px";
+            }
+        }
+
+        function imageTResizer() {
+            imageT = document.getElementsByClassName('imageT');
+
+            containerWidth = document.getElementById('imgT0').clientWidth;
+            for (var i = 0; i < imageT.length; i++) {
+                imageT[i].style.height = containerWidth + "px";
+            }
+        }
+
+
+        //---- SLIDER ----
+
+
+
+
+
+
+        // google maps modal
+        var modal = document.getElementById('myModal2');
+
+        // Get the image and insert it inside the modal - use its "alt" text as a caption
+        var img = document.getElementById('Gopener');
+
+        img.onclick = function () {
+            modal.style.display = "block";
+            document.getElementById('mainNav').style.display = "none";
+        }
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementsByClassName("close2")[0];
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function () {
+            document.getElementById('mainNav').style.display = "none";
+            modal.style.display = "none";
+        }
+    </script>
+    <!--<script src="js/jquery.matchHeight.js" type="text/javascript"></script>-->
+
+</body>
+<!-- website redesigned by Mattia Peiretti - mattiapeiretti.com-->
+
+</html>

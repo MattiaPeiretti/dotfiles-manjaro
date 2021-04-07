@@ -1,0 +1,3 @@
+compton -b &
+nitrogen --restore &
+xfce4-panel &

@@ -1,0 +1,16 @@
+[Default Applications]
+inode/directory=Thunar-folder-handler.desktop
+application/xml=mousepad.desktop
+application/x-shellscript=mousepad.desktop;
+text/x-lua=mousepad.desktop
+text/plain=mousepad.desktop
+image/png=ristretto.desktop
+image/svg+xml=ristretto.desktop
+image/jpeg=ristretto.desktop
+text/html=brave-browser.desktop
+
+[Added Associations]
+x-scheme-handler/http=exo-web-browser.desktop;
+x-scheme-handler/https=exo-web-browser.desktop;
+image/jpeg=feh.desktop;
+application/x-msi=PlayOnLinux.desktop;

@@ -1,0 +1,15 @@
+2021/04/04-16:02:35.105 4fa9 Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/04-16:02:35.106 4fa9 Recovering log #4
+2021/04/04-16:02:35.106 4fa9 Reusing old log /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/000004.log 
+2021/04/04-16:57:22.677 796a Level-0 table #8: started
+2021/04/04-16:57:28.691 796a Level-0 table #8: 11383 bytes OK
+2021/04/04-16:57:31.502 796a Delete type=0 #4
+2021/04/04-16:57:31.503 796a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/04-16:57:31.503 796a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x04\x02\x03\x00\x00\x00\x00\x00\x00\x10@\x01\x04\x009\x00:\x006\x002' @ 308 : 1
+2021/04/04-16:57:31.503 796a Compacting 1@1 + 1@2 files
+2021/04/04-16:57:34.245 796a Generated table #9@1: 50 keys, 1169 bytes
+2021/04/04-16:57:34.245 796a Compacted 1@1 + 1@2 files => 1169 bytes
+2021/04/04-16:57:34.321 796a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/04-16:57:34.322 796a Delete type=2 #5
+2021/04/04-16:57:34.322 796a Delete type=2 #8
+2021/04/04-16:57:34.322 796a Manual compaction at level-1 from '\x00\x01\x02\x02\x04\x02\x03\x00\x00\x00\x00\x00\x00\x10@\x01\x04\x009\x00:\x006\x002' @ 308 : 1 .. (end); will stop at (end)

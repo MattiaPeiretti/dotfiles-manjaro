@@ -1,0 +1,15 @@
+2021/04/07-15:39:01.055 cab Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/07-15:39:01.056 cab Recovering log #70
+2021/04/07-15:39:02.041 cab Reusing old log /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/000070.log 
+2021/04/07-15:39:10.956 f76 Level-0 table #75: started
+2021/04/07-15:39:17.322 f76 Level-0 table #75: 83574 bytes OK
+2021/04/07-15:39:21.511 f76 Delete type=0 #70
+2021/04/07-15:39:21.511 f76 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/07-15:39:21.512 f76 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x904%\xc8\x8awB\x00\x01S\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00l\x00e\x00t\x00t\x00e\x00r\x00_\x00a\x00v\x00a\x00t\x00a\x00r\x00_\x00p\x00r\x00o\x00x\x00y\x00/\x00v\x004\x00/\x00l\x00e\x00t\x00t\x00e\x00r\x00/\x00c\x00/\x008\x005\x00f\x003\x002\x002\x00/\x004\x005\x00.\x00p\x00n\x00g' @ 27354 : 1
+2021/04/07-15:39:21.512 f76 Compacting 1@1 + 1@2 files
+2021/04/07-15:39:27.471 f76 Generated table #76@1: 1067 keys, 96783 bytes
+2021/04/07-15:39:27.472 f76 Compacted 1@1 + 1@2 files => 96783 bytes
+2021/04/07-15:39:28.901 f76 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/07-15:39:28.901 f76 Delete type=2 #75
+2021/04/07-15:39:28.901 f76 Delete type=2 #72
+2021/04/07-15:39:28.902 f76 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x904%\xc8\x8awB\x00\x01S\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00l\x00e\x00t\x00t\x00e\x00r\x00_\x00a\x00v\x00a\x00t\x00a\x00r\x00_\x00p\x00r\x00o\x00x\x00y\x00/\x00v\x004\x00/\x00l\x00e\x00t\x00t\x00e\x00r\x00/\x00c\x00/\x008\x005\x00f\x003\x002\x002\x00/\x004\x005\x00.\x00p\x00n\x00g' @ 27354 : 1 .. (end); will stop at (end)

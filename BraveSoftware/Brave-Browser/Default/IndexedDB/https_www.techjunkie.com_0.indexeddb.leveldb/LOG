@@ -1,0 +1,5 @@
+2020/12/29-10:25:20.546 21d54 Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.techjunkie.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/29-10:25:52.951 231d7 Level-0 table #5: started
+2020/12/29-10:25:53.027 231d7 Level-0 table #5: 1368 bytes OK
+2020/12/29-10:25:53.077 231d7 Delete type=0 #3
+2020/12/29-10:25:53.078 231d7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

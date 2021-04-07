@@ -1,0 +1,15 @@
+2021/04/07-13:47:45.084 4ada Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_archived.forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/07-13:47:45.084 4ada Recovering log #4
+2021/04/07-13:47:45.084 4ada Reusing old log /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_archived.forum.manjaro.org_0.indexeddb.leveldb/000004.log 
+2021/04/07-13:49:20.855 4adb Level-0 table #8: started
+2021/04/07-13:49:21.166 4adb Level-0 table #8: 53739 bytes OK
+2021/04/07-13:49:21.219 4adb Delete type=0 #4
+2021/04/07-13:49:21.220 4adb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/07-13:49:21.220 4adb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xc0T\x93\xc2\x8awB\x00\x01C\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00r\x00c\x00h\x00i\x00v\x00e\x00d\x00.\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 1215 : 1
+2021/04/07-13:49:21.220 4adb Compacting 1@1 + 1@2 files
+2021/04/07-13:49:21.501 4adb Generated table #9@1: 281 keys, 30941 bytes
+2021/04/07-13:49:21.501 4adb Compacted 1@1 + 1@2 files => 30941 bytes
+2021/04/07-13:49:21.563 4adb compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/07-13:49:21.564 4adb Delete type=2 #5
+2021/04/07-13:49:21.564 4adb Delete type=2 #8
+2021/04/07-13:49:21.565 4adb Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xc0T\x93\xc2\x8awB\x00\x01C\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00r\x00c\x00h\x00i\x00v\x00e\x00d\x00.\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 1215 : 1 .. (end); will stop at (end)

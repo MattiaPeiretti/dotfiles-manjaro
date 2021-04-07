@@ -1,0 +1,5 @@
+2021/03/24-11:14:43.612 ac1 Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_fdpohaocaechififmbbbbbknoalclacl_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/24-11:36:37.247 2d8e Level-0 table #5: started
+2021/03/24-11:36:37.327 2d8e Level-0 table #5: 3490 bytes OK
+2021/03/24-11:36:37.381 2d8e Delete type=0 #3
+2021/03/24-11:36:37.381 2d8e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

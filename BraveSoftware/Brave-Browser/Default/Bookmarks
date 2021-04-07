@@ -1,0 +1,1304 @@
+{
+   "checksum": "8584798eaefa85223e07f0c7fcf64b56",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13232129842000000",
+               "guid": "58a49a9c-69b4-4810-8eea-552045b60656",
+               "id": "6",
+               "name": "Magister",
+               "type": "url",
+               "url": "https://msa.magister.net/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "072c14c5-f08c-4393-971c-48c506c2426d",
+               "id": "7",
+               "name": "Metis Rooster",
+               "type": "url",
+               "url": "https://rooster.hetmml.nl/"
+            }, {
+               "date_added": "13249069029000000",
+               "guid": "85e9dcaf-c2f4-4c1a-8760-044ccbd97b24",
+               "id": "8",
+               "name": "UvA Canvas",
+               "type": "url",
+               "url": "https://canvas.uva.nl/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "f8a0df60-0856-4bd6-b754-604f7ef63fe2",
+               "id": "9",
+               "name": "Metis",
+               "type": "url",
+               "url": "https://www.hetmml.nl/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "b4e1593b-f1ce-4c3c-88f0-06ec32bc50b2",
+               "id": "10",
+               "name": "MCO - Website",
+               "type": "url",
+               "url": "https://montessori-college-oost.nl/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "9de60e17-feae-4998-b363-a344af2fc1ad",
+               "id": "11",
+               "name": "VanDijk.nl",
+               "type": "url",
+               "url": "https://www.vandijk.nl/webshop/checkout/orderConfirmationPage"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "4097ae5e-ed49-4a91-b238-2e221a7e3209",
+               "id": "12",
+               "name": "Office",
+               "type": "url",
+               "url": "https://www.office.com/?auth=2"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "7454cea7-06f8-400a-af08-84e4714182ac",
+               "id": "13",
+               "name": "",
+               "type": "url",
+               "url": "https://scholar.google.nl/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "f1a42830-4aa7-442b-a46f-e635e3640212",
+               "id": "14",
+               "name": "My Credit • Credly",
+               "type": "url",
+               "url": "https://credly.com/my-credit"
+            }, {
+               "date_added": "13233661579000000",
+               "guid": "3c4382f3-6041-4e44-835a-441d82f76dd1",
+               "id": "15",
+               "name": "Aanmelden verplicht - wiki",
+               "type": "url",
+               "url": "https://coderclass.infvo.nl/wiki/"
+            }, {
+               "date_added": "13233960418000000",
+               "guid": "1a8f0f1d-7026-4147-9e06-c9134f8ecfca",
+               "id": "16",
+               "name": "Edit Subscriptions – Unroll.Me",
+               "type": "url",
+               "url": "https://unroll.me/a/subscriptions/rollup"
+            }, {
+               "date_added": "13234539213000000",
+               "guid": "befac15c-e3e8-4667-92f1-628fe7e27c76",
+               "id": "17",
+               "name": "GitHub Student Developer Pack - GitHub Education",
+               "type": "url",
+               "url": "https://education.github.com/pack"
+            }, {
+               "date_added": "13252030235000000",
+               "guid": "465eb27f-7708-4b0a-8e7e-8530a9e6e90f",
+               "id": "18",
+               "name": "20200928_Cohort_2020_HAVO.pdf",
+               "type": "url",
+               "url": "https://www.hetmml.nl/images/20200928_Cohort_2020_HAVO.pdf"
+            }, {
+               "date_added": "13252172459000000",
+               "guid": "3f62655d-5a31-4f55-806e-6dafd0b8d506",
+               "id": "19",
+               "name": "qcnotes.pdf",
+               "type": "url",
+               "url": "https://homepages.cwi.nl/~rdewolf/qcnotes.pdf"
+            } ],
+            "date_added": "13253059671313433",
+            "date_modified": "0",
+            "guid": "c4808e31-85ff-4c70-811b-446a50886dd7",
+            "id": "5",
+            "name": "School ",
+            "type": "folder"
+         }, {
+            "date_added": "13244756522000000",
+            "guid": "fea536ed-bfd6-4c2f-b413-6e720981a978",
+            "id": "20",
+            "name": "Notion",
+            "type": "url",
+            "url": "https://www.notion.so/"
+         }, {
+            "date_added": "13241746134000000",
+            "guid": "24c9209d-d878-491e-a60b-8bff1fd4f8f7",
+            "id": "21",
+            "name": "NUXT",
+            "type": "url",
+            "url": "https://localhost:3000/"
+         }, {
+            "children": [ {
+               "date_added": "13232129842000000",
+               "guid": "6aab34ec-1dad-43bc-9ca3-3349340c40fb",
+               "id": "23",
+               "name": "Flock",
+               "type": "url",
+               "url": "https://web.flock.com/?GKrvHtcNhb0SIukt="
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "f9872cb6-1e72-4c99-a956-24dac3d77705",
+               "id": "24",
+               "name": "Weleeve - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1n3mUM-ujifNPEwugfQkNbw02c02mVBvM"
+            }, {
+               "children": [ {
+                  "children": [  ],
+                  "date_added": "13253059671315755",
+                  "date_modified": "13253059671315755",
+                  "guid": "b24b640e-e4e0-449d-abfc-c251961b6cdc",
+                  "id": "26",
+                  "name": "New folder",
+                  "type": "folder"
+               }, {
+                  "date_added": "13232129842000000",
+                  "guid": "26740aa7-5ecf-4772-b0d9-7a0f5c90f049",
+                  "id": "27",
+                  "name": "Log In ‹ CTO — WordPress",
+                  "type": "url",
+                  "url": "http://shop.weleeve.com/wp-login.php"
+               }, {
+                  "date_added": "13232129842000000",
+                  "guid": "f69df05f-de48-4a10-9537-e72b9d7a0cef",
+                  "id": "28",
+                  "name": "Accesso cPanel",
+                  "type": "url",
+                  "url": "https://cpanel.weleeve.com/"
+               }, {
+                  "date_added": "13234997826000000",
+                  "guid": "92a38171-a54d-4c49-a9c9-9374e0655ccf",
+                  "id": "29",
+                  "name": "",
+                  "type": "url",
+                  "url": "blob:file:///f6ed1da8-fcdb-4b5b-bd8b-bcf62077cbab"
+               } ],
+               "date_added": "13253059671315739",
+               "date_modified": "0",
+               "guid": "a4acb387-1d01-4bef-a5f5-e8a9a7124715",
+               "id": "25",
+               "name": "CTO",
+               "type": "folder"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "80474983-9201-4572-9988-3d2039be29e2",
+               "id": "30",
+               "name": "Weleeve Webmail",
+               "type": "url",
+               "url": "https://weleeve.com/email/"
+            }, {
+               "children": [ {
+                  "date_added": "13232129842000000",
+                  "guid": "8f53bac7-3747-496b-9e73-005be34891c4",
+                  "id": "32",
+                  "name": "Cancel or Postpone an Appointment",
+                  "type": "url",
+                  "url": "https://www.writeexpress.com/appoin02.html"
+               }, {
+                  "date_added": "13232129842000000",
+                  "guid": "407c99fc-ab8d-429d-93a9-11fbea6776a6",
+                  "id": "33",
+                  "name": "Week Numbers for 2020",
+                  "type": "url",
+                  "url": "https://www.epochconverter.com/weeks/2020"
+               }, {
+                  "date_added": "13232129842000000",
+                  "guid": "bff91559-1482-4902-99a0-b5ac7adf42b2",
+                  "id": "34",
+                  "name": "Learn Full Stack Development with Coursetro",
+                  "type": "url",
+                  "url": "https://coursetro.com/"
+               } ],
+               "date_added": "13253059671315891",
+               "date_modified": "0",
+               "guid": "5b642de1-35d5-446c-a777-e92b706dfc46",
+               "id": "31",
+               "name": "Office",
+               "type": "folder"
+            } ],
+            "date_added": "13253059671315462",
+            "date_modified": "0",
+            "guid": "fa5cb8e1-7cdc-4427-a898-9797be2a88fd",
+            "id": "22",
+            "name": "Weleeve",
+            "type": "folder"
+         }, {
+            "date_added": "13243945643000000",
+            "guid": "d47e0763-f71b-461a-b1aa-09d03f82a8ce",
+            "id": "35",
+            "name": "",
+            "type": "url",
+            "url": "https://pomofocus.io/"
+         }, {
+            "date_added": "13240231635000000",
+            "guid": "ef12c951-fc41-402c-9c75-2bc4e85177f5",
+            "id": "36",
+            "name": "",
+            "type": "url",
+            "url": "https://web.flock.com/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "426442b9-92ec-4c3d-9441-c4ae5e56ed86",
+            "id": "37",
+            "name": "",
+            "type": "url",
+            "url": "https://calendar.google.com/calendar/r"
+         }, {
+            "date_added": "13237761512000000",
+            "guid": "b91ea98a-52aa-4893-9bc2-1f150788c503",
+            "id": "38",
+            "name": "",
+            "type": "url",
+            "url": "https://miro.com/app/board/o9J_kqZlUwI=/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "b7887d67-8e04-4d1b-8e8c-1afa78ccca15",
+            "id": "39",
+            "name": "",
+            "type": "url",
+            "url": "https://docs.google.com/document/u/0/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "6bb09e03-7a76-4718-95cc-464eae849057",
+            "id": "40",
+            "name": "",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/u/0/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "1dfdc02e-5f6b-4a85-b817-0c161ce7e5e8",
+            "id": "41",
+            "name": "",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/my-drive"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "d278d15a-e8e5-4f59-9289-b7c6dee8bc59",
+            "id": "42",
+            "name": "",
+            "type": "url",
+            "url": "https://trello.com/mattiapeiretti/boards"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "277f2f92-460c-4178-a050-db89fc3317fe",
+            "id": "43",
+            "name": "",
+            "type": "url",
+            "url": "http://www.chromebookmarkseparator.co.uk/"
+         }, {
+            "children": [ {
+               "date_added": "13232129842000000",
+               "guid": "2b84d03c-b47c-4bde-a91a-3a6a6bdd2512",
+               "id": "45",
+               "name": "",
+               "type": "url",
+               "url": "http://www.chromebookmarkseparator.co.uk/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "828bbded-a364-4195-95c4-0f9bffdd1075",
+               "id": "46",
+               "name": "dafont",
+               "type": "url",
+               "url": "http://www.dafont.com/it/"
+            }, {
+               "children": [ {
+                  "date_added": "13232129842000000",
+                  "guid": "f71aee60-dc50-47fb-9cde-94847bc98869",
+                  "id": "48",
+                  "name": "Trianglify.io · Low Poly Pattern Generator",
+                  "type": "url",
+                  "url": "https://trianglify.io/"
+               }, {
+                  "date_added": "13232129842000000",
+                  "guid": "edad45ba-1f7f-499f-b6eb-04b537dbab7b",
+                  "id": "49",
+                  "name": "Word To HTML - Online Visual HTML Editor, Converter And Cleanup",
+                  "type": "url",
+                  "url": "https://wordtohtml.net/"
+               }, {
+                  "date_added": "13232129842000000",
+                  "guid": "b070a304-ecdc-4811-88fb-f2404db753ef",
+                  "id": "50",
+                  "name": "Online Image Resizer - Crop, Resize & Compress Images, Photos and Pictures for FREE",
+                  "type": "url",
+                  "url": "https://resizeimage.net/"
+               }, {
+                  "date_added": "13232129842000000",
+                  "guid": "39e44222-4f42-464c-a06b-52f1c257bf56",
+                  "id": "51",
+                  "name": "BIRME - Bulk Image Resizing Made Easy 2.0 (Online & Free)",
+                  "type": "url",
+                  "url": "https://www.birme.net/?target_width=1013&target_height=1144"
+               }, {
+                  "date_added": "13232129842000000",
+                  "guid": "f09c6462-db88-4ef9-8ce9-6387cb3fc361",
+                  "id": "52",
+                  "name": "Da Button Factory: web button maker",
+                  "type": "url",
+                  "url": "https://dabuttonfactory.com/"
+               } ],
+               "date_added": "13253059671318114",
+               "date_modified": "0",
+               "guid": "19ef4343-a753-4f7d-bbdd-261db98e0c79",
+               "id": "47",
+               "name": "Web Dev",
+               "type": "folder"
+            }, {
+               "children": [  ],
+               "date_added": "13253059671318410",
+               "date_modified": "13253703886050883",
+               "guid": "406eabf6-0a22-41a8-b637-7a83d4498ff5",
+               "id": "53",
+               "name": "Stackoverflow",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13232129842000000",
+                  "guid": "873deeb6-a713-4214-9e12-6e1ae5930de3",
+                  "id": "55",
+                  "name": "The Tkinter Checkbutton Widget",
+                  "type": "url",
+                  "url": "http://effbot.org/tkinterbook/checkbutton.htm"
+               }, {
+                  "date_added": "13232129842000000",
+                  "guid": "8f97b80f-e973-4c08-bf92-ec7c011815f6",
+                  "id": "56",
+                  "name": "Note GUI Tkinter",
+                  "type": "url",
+                  "url": "http://stor.altervista.org/python/tk/tkinter.html"
+               }, {
+                  "date_added": "13232129842000000",
+                  "guid": "a0cfa743-fcc4-4f46-976b-e953bc3edb8f",
+                  "id": "57",
+                  "name": "Operations on Arrays — OpenCV 2.4.13.7 documentation",
+                  "type": "url",
+                  "url": "https://docs.opencv.org/2.4/modules/core/doc/operations_on_arrays.html?highlight=addweighted#void%20divide(InputArray%20src1,%20InputArray%20src2,%20OutputArray%20dst,%20double%20scale,%20int%20dtype)"
+               } ],
+               "date_added": "13253059671318425",
+               "date_modified": "0",
+               "guid": "83049d1f-de19-4887-991f-a99f5f7a09a1",
+               "id": "54",
+               "name": "Python",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13232129842000000",
+                  "guid": "d091d7db-746e-4eb8-8130-1431310c1431",
+                  "id": "59",
+                  "name": "matrix byte generator",
+                  "type": "url",
+                  "url": "https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html"
+               } ],
+               "date_added": "13253059671318575",
+               "date_modified": "0",
+               "guid": "4f4bf28c-4ed9-43fe-a48e-471a6f9f9f80",
+               "id": "58",
+               "name": "Arduino",
+               "type": "folder"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "40aa4b59-6ad0-4011-b6b3-d75d9244a652",
+               "id": "60",
+               "name": "b3d101",
+               "type": "url",
+               "url": "https://b3d101.org/nl/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "ad79a4d6-ab61-4446-9094-5e84ef641021",
+               "id": "61",
+               "name": "Dckuino",
+               "type": "url",
+               "url": "http://seytonic.com/ducky/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "ed1cc5e0-8ad3-4eb9-bcd1-bcb43ecf9ccc",
+               "id": "62",
+               "name": "Free trial project - Micrio Dashboard",
+               "type": "url",
+               "url": "https://micr.io/dashboard/#/s/projects/free-trial-project-nqgeb/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "a08f6b84-3f9f-4a34-8627-88e01859b5e3",
+               "id": "63",
+               "name": "Basic motion detection and tracking with Python and OpenCV - PyImageSearch",
+               "type": "url",
+               "url": "https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "fb78bf63-9a61-4931-acad-6832fcb72ddc",
+               "id": "64",
+               "name": "(28) Build Real Time Face Detection With JavaScript - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=CVClHLwv-4I"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "b97fba56-d329-4952-ad85-c7bd776bcaaf",
+               "id": "65",
+               "name": "Federico Dossena",
+               "type": "url",
+               "url": "https://fdossena.com/?p=about.frag"
+            }, {
+               "date_added": "13237144691000000",
+               "guid": "1d38f8d9-63bd-40d2-b575-729e1361e94a",
+               "id": "66",
+               "name": "Website Speed Test | Uptrends",
+               "type": "url",
+               "url": "https://www.uptrends.com/tools/website-speed-test"
+            }, {
+               "date_added": "13237237495000000",
+               "guid": "96259641-0cbc-41fb-a28c-92f9d219f6d1",
+               "id": "67",
+               "name": "Odyssey Program 2020 - Discover the Future by Building it",
+               "type": "url",
+               "url": "https://www.odyssey.org/"
+            }, {
+               "date_added": "13237332858000000",
+               "guid": "5f914fe5-b283-40fd-ae94-8c1a6979bd8f",
+               "id": "68",
+               "name": "Google Calendar Hours Calculator",
+               "type": "url",
+               "url": "https://google-calendar-hours.com/"
+            }, {
+               "date_added": "13244855156000000",
+               "guid": "c1ed7ac4-1790-4265-b476-3cbbef0b7661",
+               "id": "69",
+               "name": "Email invoice FAC0001",
+               "type": "url",
+               "url": "https://www.invoicesimple.com/invoice-generator"
+            }, {
+               "date_added": "13253703886050883",
+               "guid": "c3aa6be5-6239-4a44-9096-fd8488f1bd76",
+               "id": "184",
+               "name": "Gogh - Color Scheme",
+               "type": "url",
+               "url": "https://mayccoll.github.io/Gogh/"
+            } ],
+            "date_added": "13253059671317856",
+            "date_modified": "13253703892123310",
+            "guid": "69e04e06-86ea-44dd-b197-7d66f859a94d",
+            "id": "44",
+            "name": "dev",
+            "type": "folder"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "805d6169-4524-4634-818a-f699535e0432",
+            "id": "70",
+            "name": "",
+            "type": "url",
+            "url": "https://www.youtube.com/feed/subscriptions"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "dba89115-40fe-47ac-a70e-d74ad0caf252",
+            "id": "71",
+            "name": "",
+            "type": "url",
+            "url": "https://www.twitch.tv/marcuskron"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "59a5b8c9-45ed-4c9f-a934-d096cca13b67",
+            "id": "72",
+            "name": "",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "c71a8a58-901e-4790-a2e9-6917e6997506",
+            "id": "73",
+            "name": "",
+            "type": "url",
+            "url": "https://www.messenger.com/t/marco.demarco.566"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "4b564247-0ff7-4eb6-a59a-d470e67d0710",
+            "id": "74",
+            "name": "",
+            "type": "url",
+            "url": "https://twitter.com/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "d630b34b-3646-4116-857d-eff67d0502e0",
+            "id": "75",
+            "name": "",
+            "type": "url",
+            "url": "https://www.instagram.com/?hl=en"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "89f2eaa0-8c5e-4890-82e8-6f5afc91041d",
+            "id": "76",
+            "name": "",
+            "type": "url",
+            "url": "https://www.netflix.com/browse"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "12f01780-7fa6-43ef-9755-02c15b591053",
+            "id": "77",
+            "name": "",
+            "type": "url",
+            "url": "https://app.plex.tv/desktop"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "40ac9a47-eb6f-4f7d-8c45-08e74ff88434",
+            "id": "78",
+            "name": "",
+            "type": "url",
+            "url": "http://www.chromebookmarkseparator.co.uk/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "b3780b00-84bf-4bed-b980-d5126b8b5c9a",
+            "id": "79",
+            "name": "Analytics",
+            "type": "url",
+            "url": "https://analytics.google.com/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "0cadb3fd-0aca-4abd-9b0e-59c7e14ee583",
+            "id": "80",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "ab2aa482-4d64-42c2-b542-22195f0d2c54",
+            "id": "81",
+            "name": "",
+            "type": "url",
+            "url": "http://www.chromebookmarkseparator.co.uk/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "81da3b81-c12f-4b13-89e7-9da761d4503e",
+            "id": "82",
+            "name": "",
+            "type": "url",
+            "url": "https://photos.google.com/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "315ce3b3-1e99-4908-9cd4-5f8945712d7d",
+            "id": "83",
+            "name": "",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "72ff998f-8d5b-420e-874f-797aa16bcf29",
+            "id": "84",
+            "name": "",
+            "type": "url",
+            "url": "https://translate.google.com/?nl=it#view=home&op=translate&sl=nl&tl=it"
+         }, {
+            "children": [ {
+               "date_added": "13232129842000000",
+               "guid": "7070259c-f31c-49b6-b8e4-df9f46cc5252",
+               "id": "86",
+               "name": "meteo - weer",
+               "type": "url",
+               "url": "http://www.weer.nl/verwachting/nederland/amsterdam/1812872/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "e6acbf36-bde6-4f5b-b58b-ce80628eaad4",
+               "id": "87",
+               "name": "ResistorCalculator",
+               "type": "url",
+               "url": "http://resistor.cherryjourney.pt/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "d7035879-e536-4441-ba50-cd5f9f3f4864",
+               "id": "88",
+               "name": "PDF to PNG ",
+               "type": "url",
+               "url": "https://pdf2png.com/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "22943808-0839-43a7-a1ed-7a738b1c126a",
+               "id": "89",
+               "name": "PACKAGE TRACKING",
+               "type": "url",
+               "url": "https://t.17track.net/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "91cac469-2e15-4aec-90d3-0ac3657d7f2d",
+               "id": "90",
+               "name": "Password Generator ",
+               "type": "url",
+               "url": "https://passwordsgenerator.net/plus/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "1de8802e-cec4-45e4-b4c0-138a0c84e42e",
+               "id": "91",
+               "name": "Alphabetize a list in alphabetical order - and much more!",
+               "type": "url",
+               "url": "https://alphabetizer.flap.tv/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "54a970c3-a44e-4e2d-bf78-f1303989dc4e",
+               "id": "92",
+               "name": "HP OfficeJet 4650 All-in-One Printer series",
+               "type": "url",
+               "url": "http://192.168.178.14/#hId-pgWebScan"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "0d0992e3-5b00-4cfd-912e-a380aca305fe",
+               "id": "93",
+               "name": "PCPartPicker",
+               "type": "url",
+               "url": "https://pcpartpicker.com/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "589a82c4-2780-417d-a595-9ec7241aa427",
+               "id": "94",
+               "name": "Converter",
+               "type": "url",
+               "url": "https://www.online-convert.com/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "ce99cf92-e702-4f26-94d6-77b99f150b12",
+               "id": "95",
+               "name": "Scanner",
+               "type": "url",
+               "url": "http://192.168.178.16/#hId-pgWebScan"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "b67d884e-2548-4973-84e2-b5e933ba9802",
+               "id": "96",
+               "name": "Temp",
+               "type": "url",
+               "url": "http://192.168.178.177/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "00e88519-7b98-4558-92bb-93f889654a1b",
+               "id": "97",
+               "name": "Grabify IP Logger & URL Shortener - Tracking",
+               "type": "url",
+               "url": "https://grabify.link/track/Q6N1Y9"
+            }, {
+               "date_added": "13249333853000000",
+               "guid": "323e3c43-e039-434c-90c1-99b4779c1a0b",
+               "id": "98",
+               "name": "Matrices - Overleaf, Online LaTeX Editor",
+               "type": "url",
+               "url": "https://www.overleaf.com/learn/latex/Matrices#amsmath_matrix_environments"
+            } ],
+            "date_added": "13253059671321422",
+            "date_modified": "0",
+            "guid": "b721e43d-ac7d-431e-8b07-ea3824e2b9e0",
+            "id": "85",
+            "name": "tools",
+            "type": "folder"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "bd621ae1-f1e6-4965-9e12-997d71302f6e",
+            "id": "99",
+            "name": "",
+            "type": "url",
+            "url": "http://www.chromebookmarkseparator.co.uk/"
+         }, {
+            "children": [ {
+               "date_added": "13232129842000000",
+               "guid": "791bff8e-8065-4d60-b373-3875d98c3400",
+               "id": "101",
+               "name": "Binance",
+               "type": "url",
+               "url": "https://www.binance.com/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "e384b952-1926-45b2-8548-a77d58ab0a1e",
+               "id": "102",
+               "name": "Coinbase",
+               "type": "url",
+               "url": "https://www.coinbase.com/join"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "1983eb04-92b0-40c8-99ac-ad655609d528",
+               "id": "103",
+               "name": "Ethereum",
+               "type": "url",
+               "url": "https://www.coindesk.com/ethereum-price/"
+            } ],
+            "date_added": "13253059671322219",
+            "date_modified": "0",
+            "guid": "eba5526e-69cf-468f-9ecb-7eba873b6796",
+            "id": "100",
+            "name": "cryptos",
+            "type": "folder"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "caa34978-6688-4e21-8af8-ef77d3804625",
+            "id": "104",
+            "name": "",
+            "type": "url",
+            "url": "http://www.chromebookmarkseparator.co.uk/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "888f70c1-5cef-4d70-8f6a-6e050b64a3b9",
+            "id": "105",
+            "name": "Amazon.de",
+            "type": "url",
+            "url": "https://www.amazon.de/"
+         }, {
+            "children": [ {
+               "date_added": "13232129842000000",
+               "guid": "e340c49f-b284-4f25-8594-99d59833a971",
+               "id": "107",
+               "name": "Mouser",
+               "type": "url",
+               "url": "https://nl.mouser.com/Electronic-Components/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "1b695608-c79b-49be-9942-b117af9bef9f",
+               "id": "108",
+               "name": "Tayda",
+               "type": "url",
+               "url": "https://www.taydaelectronics.com/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "ee85f118-58f9-418a-8105-5beba34c8c89",
+               "id": "109",
+               "name": "Ebay",
+               "type": "url",
+               "url": "https://www.ebay.nl/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "c5e881eb-76ef-4c08-bee6-aee66a377767",
+               "id": "110",
+               "name": "Amazon.it",
+               "type": "url",
+               "url": "https://www.amazon.it/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "9d3840a8-ee2c-436b-bffc-689f83a251c8",
+               "id": "111",
+               "name": "Marktplaats",
+               "type": "url",
+               "url": "https://www.marktplaats.nl/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "c8bf63be-f43d-4fda-b437-522ef8e2cf35",
+               "id": "112",
+               "name": "YouTube on TV",
+               "type": "url",
+               "url": "https://www.youtube.com/tv#/watch/video/control?v=dI51qdQdK6s&list=RQaBtn0Q3FIpqm1PYYpby39CipA8o&resume"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "edf45255-7ec4-48ab-bcb1-3b33ef5be4f5",
+               "id": "113",
+               "name": "Claude Monet - Wikipedia",
+               "type": "url",
+               "url": "https://it.wikipedia.org/wiki/Claude_Monet#Opere"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "3511bb2d-08bc-4f39-b6ec-3541bf149555",
+               "id": "114",
+               "name": "Banggood",
+               "type": "url",
+               "url": "https://www.banggood.com/"
+            } ],
+            "date_added": "13253059671322908",
+            "date_modified": "0",
+            "guid": "3df5b43f-30c5-47f1-bf96-5bc5eff6c2b3",
+            "id": "106",
+            "name": "More",
+            "type": "folder"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "657164e0-87f4-4b12-9e64-95a04a5df628",
+            "id": "115",
+            "name": "",
+            "type": "url",
+            "url": "http://www.chromebookmarkseparator.co.uk/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "ccd0b165-f156-4588-97cc-81da0d5c1f95",
+            "id": "116",
+            "name": "Rabobank",
+            "type": "url",
+            "url": "https://www.rabobank.nl/particulieren/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "cd2dd966-23e5-4501-903f-5a82e0366979",
+            "id": "117",
+            "name": "Google Domains – Google",
+            "type": "url",
+            "url": "https://domains.google/#/?features_activeEl=support"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "9fbca266-1686-454a-b9c1-cbe12fb030ad",
+            "id": "118",
+            "name": "Generate - Coolors.co",
+            "type": "url",
+            "url": "https://coolors.co/dfe1f3-8a8ea8-5d576b-5171a5-a3a4aa"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "dfbfc14d-bb64-4ba5-ba97-f1f8f8b17e50",
+            "id": "119",
+            "name": "",
+            "type": "url",
+            "url": "https://translate.google.nl/?hl=it"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "edb2f078-9c1e-49e6-90c3-f3c0ef4616fc",
+            "id": "120",
+            "name": "Creative Link Effects",
+            "type": "url",
+            "url": "https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-21"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "39a3d03d-581b-4c32-b2d8-4d093516c216",
+            "id": "121",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "c580b768-68df-4c88-ac38-116c7b53bf4c",
+            "id": "122",
+            "name": "",
+            "type": "url",
+            "url": "https://pcpartpicker.com/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "e1225b2a-ac6e-4c15-b26e-50c891c96f1a",
+            "id": "123",
+            "name": "Socrative",
+            "type": "url",
+            "url": "https://b.socrative.com/student/#quiz"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "31826f57-d5e9-4260-89f0-353c46c408d4",
+            "id": "124",
+            "name": "(27) DAN PENA & MICHAEL PILARCZYK | BE ALL YOU CAN BE | FULL INTERVIEW | QLA | Quantum Leap Advantage - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=g5IKVA2W1zc"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "2a2be580-31b2-48c0-a4d6-205f957b74e5",
+            "id": "125",
+            "name": "Google AdSense",
+            "type": "url",
+            "url": "https://www.google.com/adsense/new/u/0/pub-8443969154668413/main/myads-viewall-url-channels?product=SELF_SERVICE_CONTENT_ADS"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "2e2f3a8d-73e2-47da-82c3-65ef3598f66c",
+            "id": "126",
+            "name": "videoInput Library",
+            "type": "url",
+            "url": "http://www.muonics.net/school/spring05/videoInput/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "9f216736-6b04-429b-953e-e68858541491",
+            "id": "127",
+            "name": "(2) Bob Ross Remixed | Happy Little Clouds 10 Hours - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=27Sl5rrIr-g"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "80e8067f-b6c3-4fd3-85e7-9c8f55c144e2",
+            "id": "128",
+            "name": "Etsy - Pannello di controllo del negozio",
+            "type": "url",
+            "url": "https://www.etsy.com/it/your/shops/me/dashboard?ref=hdr-mcpa"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "c6ccd121-b310-4b72-8e4c-f80bd42564ce",
+            "id": "129",
+            "name": "Astro-Beano: Instrumented Telescope with Raspberry Pi and orientation sensor",
+            "type": "url",
+            "url": "http://astrobeano.blogspot.com/2014/01/instrumented-telescope-with-raspberry.html"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "9589591c-dc9c-4448-aee9-5a495b893d92",
+            "id": "130",
+            "name": "David Grayson's blog: Orientation sensing with the Raspberry Pi and MinIMU-9 v2",
+            "type": "url",
+            "url": "http://blog.davidegrayson.com/2012/11/orientation-sensing-with-raspberry-pi.html"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "8cc1a58e-418a-415d-833b-c7fe35246206",
+            "id": "131",
+            "name": "Using the MPU9250 to get Real-time Motion Data - Arduino Project Hub",
+            "type": "url",
+            "url": "https://create.arduino.cc/projecthub/30503/using-the-mpu9250-to-get-real-time-motion-data-08f011"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "3ee556d3-9048-4db6-be20-9cf50cd8d501",
+            "id": "132",
+            "name": "Stepper Motor with A4988 and Arduino Tutorial (4 Examples)",
+            "type": "url",
+            "url": "https://www.makerguides.com/a4988-stepper-motor-driver-arduino-tutorial/"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "9880307b-4044-43e2-9813-4a916f85fb06",
+            "id": "133",
+            "name": "Reem Kufi - Google Fonts",
+            "type": "url",
+            "url": "https://fonts.google.com/specimen/Reem+Kufi"
+         }, {
+            "children": [ {
+               "date_added": "13232129842000000",
+               "guid": "cb8ccfd0-af23-4ef6-8e08-115f9bc59a47",
+               "id": "135",
+               "name": "Beginner Vue.js Tutorial with User Login",
+               "type": "url",
+               "url": "https://auth0.com/blog/beginner-vuejs-tutorial-with-user-login/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "96120ac8-cd87-4906-9aa7-1832cc779a6a",
+               "id": "136",
+               "name": "Creating Web APIs with Python and Flask | Programming Historian",
+               "type": "url",
+               "url": "https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "4c33007e-eff0-4211-b75a-04bbe0502ca6",
+               "id": "137",
+               "name": "Flask RESTful API Creation Using Python & MySQL",
+               "type": "url",
+               "url": "https://codehandbook.org/flask-restful-api-using-python-mysql/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "f6307733-08ea-4c50-8910-cb9a4dc7094e",
+               "id": "138",
+               "name": "Consume Remote API Data Via HTTP In A Vue.js Web Application",
+               "type": "url",
+               "url": "https://www.thepolyglotdeveloper.com/2017/10/consume-api-data-http-vuejs-web-application/"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "8f6a8f9e-d4c3-4212-b9a4-64f42bdbdbc9",
+               "id": "139",
+               "name": "P: Website maken! - computernetwerken-0",
+               "type": "url",
+               "url": "https://metis-montessori-lyceum.gitbook.io/computernetwerken-0/les-7-cybersecurity-and-crime/p-website-maken"
+            } ],
+            "date_added": "13253059671323849",
+            "date_modified": "0",
+            "guid": "cd0153d3-a663-48b7-996d-64337a280d8d",
+            "id": "134",
+            "name": "MAP-project",
+            "type": "folder"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "37ae3a3f-17c8-4c28-a2bd-b544272c86dc",
+            "id": "140",
+            "name": "List of All ASCII Emoticons - uplist",
+            "type": "url",
+            "url": "https://upli.st/l/list-of-all-ascii-emoticons"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "2952ea64-cc76-47fa-a35d-228bba4a9d59",
+            "id": "141",
+            "name": "Fotografie - Used Products Amsterdam Bijlmer",
+            "type": "url",
+            "url": "https://www.usedproductsbijlmer.nl/beeld-geluid/fotografie/page2.html"
+         }, {
+            "children": [ {
+               "date_added": "13232129842000000",
+               "guid": "38f3167a-aade-44a1-9f32-3454941f5fae",
+               "id": "143",
+               "name": "Teujib Halal Pizza",
+               "type": "url",
+               "url": "https://www.thuisbezorgd.nl/en/teujib-halal-pizza-snacks-to-go"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "4af79168-87ae-41be-a1fc-41b3cc6df4d5",
+               "id": "144",
+               "name": "Porto Pescara Diemen",
+               "type": "url",
+               "url": "https://www.thuisbezorgd.nl/en/porto-pescara"
+            }, {
+               "date_added": "13232129842000000",
+               "guid": "18aa4bcb-d9a5-44e5-bee7-5b3519bc8b38",
+               "id": "145",
+               "name": "Eethuis City Noord",
+               "type": "url",
+               "url": "https://www.thuisbezorgd.nl/en/eethuis-city-noord"
+            } ],
+            "date_added": "13253059671324148",
+            "date_modified": "0",
+            "guid": "eadf592e-06ea-47aa-826d-0c1adc9bf642",
+            "id": "142",
+            "name": "Food",
+            "type": "folder"
+         }, {
+            "date_added": "13232129842000000",
+            "guid": "8e0f24b7-98df-4cca-8e46-c2ef99a685a1",
+            "id": "146",
+            "name": "Weleeve - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/1/folders/1Xep8fH7EbGFGE8xvX_sjHC0h5I0BFz4T"
+         }, {
+            "date_added": "13232129853000000",
+            "guid": "f2bda1ad-935b-4002-8dea-571e19d5aa22",
+            "id": "147",
+            "name": "How to change frame resolution opencv python - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/54522278/how-to-change-frame-resolution-opencv-python"
+         }, {
+            "date_added": "13232129853000000",
+            "guid": "9f5742a5-c3b4-43fd-9ebd-8221c7eb56f8",
+            "id": "148",
+            "name": "Petizione · European Parliament: Stop the censorship-machinery! Save the Internet! · Change.org",
+            "type": "url",
+            "url": "https://www.change.org/p/european-parliament-stop-the-censorship-machinery-save-the-internet"
+         }, {
+            "date_added": "13232129853000000",
+            "guid": "ed6c4c77-edc9-4e56-8e5b-e0844c696d88",
+            "id": "149",
+            "name": "Lexmark MS317dn 1200 x 1200DPI A4 - laser/LED printers (Laser, 1200 x 1200 DPI, A4, 300 sheets, 33 ppm, Duplex printing): Amazon.it: Informatica",
+            "type": "url",
+            "url": "https://www.amazon.it/gp/aw/d/B071KF28R3/ref=psdcmw_460180031_t2_B071KF2BCB"
+         }, {
+            "date_added": "13232129853000000",
+            "guid": "64df0713-2ef7-4424-a244-2b3ae86a97a5",
+            "id": "150",
+            "name": "Bback in Dallas",
+            "type": "url",
+            "url": "https://it.pornhub.com/view_video.php?viewkey=ph584616c7b8fe6"
+         }, {
+            "date_added": "13232129853000000",
+            "guid": "ad84c48d-ee11-441b-a241-128ab1dbd1c8",
+            "id": "151",
+            "name": "Say YES to a Better LIFE?",
+            "type": "url",
+            "url": "https://spiritualscore.com/?tid=sskw1&gclid=Cj0KCQjw_absBRD1ARIsAO4_D3tRleXLk9mkhVMvV9OhFC8oPhgalL9IyvQzK-VfPdJas9L2MsjJbAYaAtPzEALw_wcB"
+         }, {
+            "date_added": "13240098810000000",
+            "guid": "7e34eb91-a832-40e3-9b91-b12ef65bafd6",
+            "id": "152",
+            "name": "Free Music Archive",
+            "type": "url",
+            "url": "https://www.freemusicarchive.org/search?adv=1&quicksearch=classical&&&music-filter-CC-attribution-only=1&music-filter-CC-attribution-sharealike=1&music-filter-public-domain=1&music-filter-commercial-allowed=1&music-filter-remix-allowed=1"
+         }, {
+            "children": [ {
+               "date_added": "13239127204000000",
+               "guid": "4a5ed098-8161-4f8c-b289-620bc3d3b447",
+               "id": "154",
+               "name": "Place New Order - WPX Hosting",
+               "type": "url",
+               "url": "https://wpxhosting.com/cart/wordpress-hosting/"
+            } ],
+            "date_added": "13253059671324596",
+            "date_modified": "0",
+            "guid": "f473da72-240e-4285-979c-626463c02ede",
+            "id": "153",
+            "name": "CWR",
+            "type": "folder"
+         }, {
+            "date_added": "13240197007000000",
+            "guid": "2e097b3e-e6ba-4158-a33b-336bd4ebae20",
+            "id": "155",
+            "name": "cfenollosa/os-tutorial: How to create an OS from scratch",
+            "type": "url",
+            "url": "https://github.com/cfenollosa/os-tutorial"
+         }, {
+            "date_added": "13241361543000000",
+            "guid": "f8bac110-f523-4138-a7d0-ec32c1585d41",
+            "id": "156",
+            "name": "Samples",
+            "type": "url",
+            "url": "https://www.inkthreadable.co.uk/samples"
+         }, {
+            "date_added": "13242517068000000",
+            "guid": "ee3a9f35-bf3a-40b2-b49c-8111fcd90955",
+            "id": "157",
+            "name": "Typing practice",
+            "type": "url",
+            "url": "https://www.keybr.com/"
+         }, {
+            "children": [ {
+               "date_added": "13242586390000000",
+               "guid": "d17d8a93-462e-491b-9bba-8eae2a92ead4",
+               "id": "159",
+               "name": "IT-expert aan huis en #eindbaas",
+               "type": "url",
+               "url": "https://www.bijbaan.nl/vacatures/1410626-it-expert-aan-huis-en-eindbaas"
+            }, {
+               "date_added": "13242586505000000",
+               "guid": "fa716a5d-01fd-4258-8b79-42c193f18477",
+               "id": "160",
+               "name": "Vacature PHP Programmeur bij Logistic Planet in Amsterdam | NationaleVacaturebank.nl",
+               "type": "url",
+               "url": "https://www.nationalevacaturebank.nl/vacature/2b6705bb-ced0-4774-a838-176758ebc37b/php-programmeur"
+            }, {
+               "date_added": "13242586638000000",
+               "guid": "d3f97805-3f8a-4f5c-bf30-729665556824",
+               "id": "161",
+               "name": "Vacature Backend Developer bij IMU in Amsterdam | NationaleVacaturebank.nl",
+               "type": "url",
+               "url": "https://www.nationalevacaturebank.nl/vacature/1a6e1ed5-936f-416c-8b9a-977d4e2302c8/backend-developer"
+            }, {
+               "date_added": "13242586799000000",
+               "guid": "d53f9524-5382-47c1-8383-2814dd72f6e5",
+               "id": "162",
+               "name": "Vacature Front-end Developer bij Kabisa in Amsterdam | NationaleVacaturebank.nl",
+               "type": "url",
+               "url": "https://www.nationalevacaturebank.nl/vacature/2518d163-bb4e-4427-bf94-66f939ca17f4/front-end-developer"
+            }, {
+               "date_added": "13242586895000000",
+               "guid": "75bcff71-76c8-456a-8016-18405dc76f30",
+               "id": "163",
+               "name": "Vacature a Frontend Developer bij Bravoure in Amsterdam | NationaleVacaturebank.nl",
+               "type": "url",
+               "url": "https://www.nationalevacaturebank.nl/vacature/fe1980ee-fb49-4af4-ad61-a5da48516cfe/a-frontend-developer"
+            }, {
+               "date_added": "13242586971000000",
+               "guid": "d2236538-a110-4433-a50a-32cdab6a56ae",
+               "id": "164",
+               "name": "Vacature UX Designer bij IMU in Amsterdam | NationaleVacaturebank.nl",
+               "type": "url",
+               "url": "https://www.nationalevacaturebank.nl/vacature/74dcad16-e834-4251-8958-8bf8c94b3dc7/ux-designer"
+            }, {
+               "date_added": "13242587151000000",
+               "guid": "58a7d9ec-8942-4c58-9dbe-8b554d76ae1b",
+               "id": "165",
+               "name": "Vacature Studenten bijbaan als planner - Amsterdam | Werkzoeken.nl",
+               "type": "url",
+               "url": "https://www.werkzoeken.nl/8818_sparkling-people/vacatures/4463148_studenten-bijbaan-als-planner_4/?source=64ee2849d8bf1e0b145c1e3d273b0e1b&utm_source=jooble&utm_medium=referral&utm_campaign=jooble_referral_vertical_vac_feed&utm_term=logistics+amsterdam"
+            }, {
+               "date_added": "13242587328000000",
+               "guid": "0df51c4d-7837-41e3-ab46-d2633627548e",
+               "id": "166",
+               "name": "Medewerker bediening horeca - Amsterdam - Indeed.nl",
+               "type": "url",
+               "url": "https://www.indeed.nl/vacature-bekijken?cmp=La-Cubanita-Amsterdam&t=Medewerker+Bediening+Horeca&jk=923e8e43639a0553&vjs=3"
+            }, {
+               "date_added": "13242587424000000",
+               "guid": "ccb085ff-d0a1-449f-a210-bb9616609321",
+               "id": "167",
+               "name": "Medewerkers keuken koude kant - Amsterdam - Indeed.nl",
+               "type": "url",
+               "url": "https://www.indeed.nl/vacature-bekijken?cmp=De-Beren-Amsterdam--Noord&t=Medewerkers+Keuken+Koude+Kant&jk=24e6604caee6de4b&vjs=3"
+            }, {
+               "date_added": "13242587545000000",
+               "guid": "d148b812-7c04-4941-8f0c-7fc41ba19e50",
+               "id": "168",
+               "name": "Back of house medewerker - Amsterdam - Indeed.nl",
+               "type": "url",
+               "url": "https://www.indeed.nl/vacature-bekijken?cmp=Vapiano&t=Back+House+Medewerker&jk=06f9b3350823d144&q=horeca+%E2%82%AC17.000&vjs=3"
+            }, {
+               "date_added": "13242588070000000",
+               "guid": "d817a5b1-d6d7-46fd-8657-db891ec82bb6",
+               "id": "169",
+               "name": "IT-Student bij Studentaanhuis. Een bijbaan in je eigen vakgebied",
+               "type": "url",
+               "url": "https://www.studentjob.nl/vacatures/1135890-it-student-bij-studentaanhuis-een-bijbaan-in-je-eigen-vakgebied"
+            }, {
+               "date_added": "13242588287000000",
+               "guid": "dc1f0ad8-daaa-4ccd-b73d-25e613efd751",
+               "id": "170",
+               "name": "Flexibele bijbaan in het onderwijs bij Lyceo",
+               "type": "url",
+               "url": "https://www.studentjob.nl/vacatures/1364406-flexibele-bijbaan-in-het-onderwijs-bij-lyceo"
+            }, {
+               "date_added": "13243906570000000",
+               "guid": "b6c17e62-bd0f-435b-a16a-d0f90285cbfe",
+               "id": "171",
+               "name": "Uitkering als je 18 bent - SNS Bank",
+               "type": "url",
+               "url": "https://www.snsbank.nl/particulier/service/18-jaar/uitkering.html"
+            } ],
+            "date_added": "13253059671324759",
+            "date_modified": "0",
+            "guid": "9e59b0de-f488-477e-8fe8-bce157e8ddeb",
+            "id": "158",
+            "name": "JOBS",
+            "type": "folder"
+         }, {
+            "date_added": "13242948985000000",
+            "guid": "9535190c-813c-41fb-b29e-67eb9560ee24",
+            "id": "172",
+            "name": "IBM Quantum Experience",
+            "type": "url",
+            "url": "https://quantum-computing.ibm.com/"
+         }, {
+            "date_added": "13243027530000000",
+            "guid": "ff474790-9430-46bc-acc7-83ac526d4256",
+            "id": "173",
+            "name": "cheapOAir reviews - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=cheapOAir+reviews&sxsrf=ALeKk00s4uUtCnfoVL-o6wcH8Bu5GXDNjQ:1598553925099&ei=Rf9HX7DOBYb5kwW40rC4BA&start=30&sa=N&ved=2ahUKEwjwhPC2hbzrAhWG_KQKHTgpDEc4FBDw0wN6BAgMEEA&biw=1920&bih=951"
+         }, {
+            "date_added": "13245098961000000",
+            "guid": "8e0e0a14-279f-4af2-997e-21282f36942e",
+            "id": "174",
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "children": [ {
+               "date_added": "13245636396000000",
+               "guid": "d4729e47-21a1-484a-abbe-e1fe90cb8a69",
+               "id": "176",
+               "name": "3D planets with Three.js / Vladimir Agafonkin / Observable",
+               "type": "url",
+               "url": "https://observablehq.com/@mourner/3d-planets-with-three-js"
+            }, {
+               "date_added": "13246151978000000",
+               "guid": "4d28eaae-fef8-4e40-a807-3c980044203a",
+               "id": "177",
+               "name": "Beyond cookies: Today's options for client-side data storage - LogRocket Blog",
+               "type": "url",
+               "url": "https://blog.logrocket.com/beyond-cookies-todays-options-for-client-side-data-storage/"
+            }, {
+               "date_added": "13246230504000000",
+               "guid": "e7dffe54-1475-402f-91b3-451fdc88eb9b",
+               "id": "178",
+               "name": "https://pixeldrain.com/api/file/uefCHx6W",
+               "type": "url",
+               "url": "https://pixeldrain.com/api/file/uefCHx6W"
+            }, {
+               "date_added": "13247697440000000",
+               "guid": "caca1317-0daf-46aa-9289-2966e8d0427f",
+               "id": "179",
+               "name": "Edit fiddle - JSFiddle - Code Playground",
+               "type": "url",
+               "url": "https://jsfiddle.net/neeh/4n9ymu2c/63/"
+            }, {
+               "date_added": "13247861171000000",
+               "guid": "494b16f5-49bb-42ff-84f2-7f096ef3d0a8",
+               "id": "180",
+               "name": "TronLink | Professional USDT-Tron (TRX) Wallet",
+               "type": "url",
+               "url": "https://www.tronlink.org/"
+            } ],
+            "date_added": "13253059671325574",
+            "date_modified": "0",
+            "guid": "75abcaf5-d782-4185-85e3-edf2885d271c",
+            "id": "175",
+            "name": "SMAD",
+            "type": "folder"
+         }, {
+            "date_added": "13248478491000000",
+            "guid": "8ed22792-fc9c-427a-951d-91217c224171",
+            "id": "181",
+            "name": "MEE6 - The Discord Bot",
+            "type": "url",
+            "url": "https://mee6.xyz/dashboard/769193068213305384"
+         }, {
+            "date_added": "13251333121000000",
+            "guid": "94a566f0-7cdf-4882-978e-8df2d8b2560d",
+            "id": "182",
+            "name": "Quantum Amsterdam (Amsterdam, Netherlands) | Meetup",
+            "type": "url",
+            "url": "https://www.meetup.com/quantum-amsterdam/"
+         } ],
+         "date_added": "13253059635790478",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13253059635790482",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13253059635790485",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

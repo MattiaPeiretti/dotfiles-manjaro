@@ -1,0 +1,5 @@
+2021/04/06-12:43:06.140 df3e Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/06-12:43:10.812 e67a Level-0 table #5: started
+2021/04/06-12:43:11.548 e67a Level-0 table #5: 340 bytes OK
+2021/04/06-12:43:12.717 e67a Delete type=0 #3
+2021/04/06-12:43:12.718 e67a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

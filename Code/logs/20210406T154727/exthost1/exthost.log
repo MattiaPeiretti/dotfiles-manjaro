@@ -1,0 +1,23 @@
+[2021-04-06 15:49:21.937] [exthost] [info] extension host started
+[2021-04-06 15:49:22.053] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-04-06 15:49:22.053] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/60/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-04-06 15:49:23.141] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-06 15:49:23.141] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/60/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-06 15:49:23.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-06 15:49:23.729] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/60/usr/share/code/resources/app/extensions/git/dist/main
+[2021-04-06 15:49:32.885] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2021-04-06 15:49:32.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mattia/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-04-06 15:50:02.395] [exthost] [info] ExtensionService#_doActivateExtension dariofuzinato.vue-peek {"startup":true,"extensionId":{"value":"dariofuzinato.vue-peek","_lower":"dariofuzinato.vue-peek"},"activationEvent":"*"}
+[2021-04-06 15:50:02.395] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mattia/.vscode/extensions/dariofuzinato.vue-peek-1.0.2/out/src/extension
+[2021-04-06 15:50:07.446] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":true,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"*"}
+[2021-04-06 15:50:07.447] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mattia/.vscode/extensions/ecmel.vscode-html-css-1.10.2/dist/extension.js
+[2021-04-06 15:50:12.488] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-04-06 15:50:12.488] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mattia/.vscode/extensions/formulahendry.auto-rename-tag-0.1.6/packages/extension/dist/extensionMain.js
+[2021-04-06 15:50:20.137] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-04-06 15:50:20.137] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mattia/.vscode/extensions/knisterpeter.vscode-github-0.30.5/out/src/main
+[2021-04-06 15:53:29.103] [exthost] [info] ExtensionService#_doActivateExtension mblode.pretty-formatter {"startup":true,"extensionId":{"value":"mblode.pretty-formatter","_lower":"mblode.pretty-formatter"},"activationEvent":"*"}
+[2021-04-06 15:53:29.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mattia/.vscode/extensions/mblode.pretty-formatter-0.2.2/out/extension.js
+[2021-04-06 15:53:31.066] [exthost] [info] ExtensionService#_doActivateExtension peakchen90.vue-beautify {"startup":true,"extensionId":{"value":"peakchen90.vue-beautify","_lower":"peakchen90.vue-beautify"},"activationEvent":"*"}
+[2021-04-06 15:53:31.066] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mattia/.vscode/extensions/peakchen90.vue-beautify-2.0.4/extension
+[2021-04-06 15:53:35.682] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-04-06 15:53:35.683] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mattia/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension

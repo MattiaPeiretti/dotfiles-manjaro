@@ -1,0 +1,15 @@
+2021/04/06-10:00:53.977 e5e Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/06-10:00:53.978 e5e Recovering log #29
+2021/04/06-10:00:53.978 e5e Reusing old log /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000029.log 
+2021/04/06-12:24:17.151 bcfd Level-0 table #33: started
+2021/04/06-12:24:18.366 bcfd Level-0 table #33: 273706 bytes OK
+2021/04/06-12:24:19.033 bcfd Delete type=0 #29
+2021/04/06-12:24:19.033 bcfd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/06-12:24:19.033 bcfd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x03\x03\x01'\x005\x005\x00c\x00d\x007\x005\x003\x006\x003\x00d\x00e\x005\x003\x005\x006\x009\x00a\x006\x00e\x00b\x002\x002\x007\x003\x002\x00b\x00b\x00e\x009\x00f\x003\x008\x00_\x003\x00_\x001\x00:\x000\x000' @ 1664 : 0
+2021/04/06-12:24:19.034 bcfd Compacting 1@1 + 1@2 files
+2021/04/06-12:24:20.328 bcfd Generated table #34@1: 272 keys, 71486 bytes
+2021/04/06-12:24:20.328 bcfd Compacted 1@1 + 1@2 files => 71486 bytes
+2021/04/06-12:24:23.076 bcfd compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/06-12:24:23.077 bcfd Delete type=2 #33
+2021/04/06-12:24:23.077 bcfd Delete type=2 #27
+2021/04/06-12:24:23.078 bcfd Manual compaction at level-1 from '\x00\x02\x03\x03\x01'\x005\x005\x00c\x00d\x007\x005\x003\x006\x003\x00d\x00e\x005\x003\x005\x006\x009\x00a\x006\x00e\x00b\x002\x002\x007\x003\x002\x00b\x00b\x00e\x009\x00f\x003\x008\x00_\x003\x00_\x001\x00:\x000\x000' @ 1664 : 0 .. (end); will stop at (end)

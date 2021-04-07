@@ -1,0 +1,5 @@
+2021/03/26-11:08:05.805 be6 Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/26-11:40:01.055 3ba7 Level-0 table #5: started
+2021/03/26-11:40:01.118 3ba7 Level-0 table #5: 18175 bytes OK
+2021/03/26-11:40:01.196 3ba7 Delete type=0 #3
+2021/03/26-11:40:01.197 3ba7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

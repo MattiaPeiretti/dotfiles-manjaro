@@ -1,0 +1,5 @@
+2021/04/06-15:45:41.753 560c Reusing MANIFEST /home/mattia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.gitbook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/06-15:46:00.878 5634 Level-0 table #5: started
+2021/04/06-15:46:01.828 5634 Level-0 table #5: 5038 bytes OK
+2021/04/06-15:46:05.337 5634 Delete type=0 #3
+2021/04/06-15:46:05.338 5634 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
